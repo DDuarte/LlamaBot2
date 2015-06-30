@@ -19,5 +19,6 @@
   "hubot-scala",
   "hubot-youtube-v3",
   "hubot-getbacktowork",
-  "hubot-vanity-github"
+  "hubot-vanity-github",
+  "hubot-youtube-info"
 ]
