@@ -5,6 +5,7 @@
   "author": "DDuarte <dnpd.dd@gmail.com>",
   "description": "TrinityCore's bot",
   "dependencies": {
+    "githubot": "^1.0.0",
     "hubot": "^2.13.2",
     "hubot-ambush": "0.0.3",
     "hubot-bikeshed": "^1.1.0",
