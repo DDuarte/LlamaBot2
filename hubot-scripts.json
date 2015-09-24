@@ -1,6 +1,5 @@
 [
   "redis-brain.coffee",
-  "shipit.coffee",
   "travis.coffee",
   "countdown.coffee",
   "github-search.coffee",
