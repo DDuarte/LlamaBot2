@@ -7,7 +7,7 @@
   "dependencies": {
     "chrono-node": "1.0.8",
     "clark": "0.0.6",
-    "date-utils": "1.2.17",
+    "date-utils": "1.2.18",
     "flip": "0.1.1",
     "github": "0.2.4",
     "githubot": "1.0.0",
