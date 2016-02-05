@@ -42,7 +42,7 @@
     "mysql": "2.9.0",
     "node-github": "0.0.3",
     "scraper": "0.0.9",
-    "shelljs": "0.5.3",
+    "shelljs": "0.6.0",
     "underscore": "1.8.3",
     "validator": "4.0.6",
     "xml2js": "0.4.15"
